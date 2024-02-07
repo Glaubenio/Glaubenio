@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Glaubenio and I'm a full cycle developer, from ....</h2>
+<h2 align="left">Hi 👋! My name is Glaubenio and I'm a full cycle developer, from Brazil</h2>
 
 ###
 
